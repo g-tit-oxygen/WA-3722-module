@@ -1,0 +1,4 @@
+[submodule "WA-3722-module-deep"]
+	path = WA-3722-module-deep
+	url = ../WA-3722-module-deep
+	branch = master
